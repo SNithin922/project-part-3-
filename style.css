@@ -1,0 +1,92 @@
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+body {
+    text-align: center;
+     background: green;
+    text-align: 100px;
+}
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}  
+marquee {
+    background-color: blue;
+}
+.travel_mainDiv {
+    border: 1px solid #c7c7c7; 
+    padding-right:0px;
+    padding-left: 0px;
+    float: none;
+}
+
+.travel_mainDiv hr {
+    width: 230px;
+}
+.travel_mainDiv h5, .travel_maunDiv p {
+    margin-left: 20px;
+}
+.achivement {
+    font-size: 20px;
+    padding: 6px 22px;
+ border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+.ahievement i {
+    float: right;
+}
+.achievement_text span {
+    color: #ff7700;
+    }
+.achiment h5 {
+    color: white;
+    font-size: 50px;
+}
+.achivement2 {
+    font-size: 20px;
+    padding: 6px 22px;
+ border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+.ahievement2 i {
+    float: right;
+}
+.achievement2_text span {
+    color: #ff7700;
+    }
+.achiment2 h5 {
+    color: white;
+    font-size: 50px;
+}
+.achivement3 {
+    font-size: 20px;
+    padding: 6px 22px;
+ border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+.ahievement3 i {
+    float: right;
+}
+.achievement3_text span {
+    color: #ff7700;
+    }
+.achiment3 h5 {
+    color: white;
+    font-size: 50px;
+}
